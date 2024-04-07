@@ -1,0 +1,74 @@
+codigo,nombre,categoria,precio,lote,vto,puntodereorden,cantidad
+02003,Tornillos,P.P. PLAZAS DE SALUD,10.25,0,0,120,15
+04012,Tornillos estructurales 4x20,MAT. ACERO INOXIDABLE,15.50,0,0,100,20
+04013,Tornillos para paneles 5x25,MAT. ACERO INOXIDABLE,18.75,0,0,90,18
+04014,Tornillos de fijación 6x30,MAT. ACERO INOXIDABLE,22.00,0,0,80,25
+02003,Tornillos de fijación 5x25,P.P. PLAZAS DE SALUD,12.75,0,0,110,22
+02002,Tornillos para ensamblaje 4x20,P.P. PLAZAS,14.25,0,0,105,17
+02002,Tornillos estructurales 5x30,P.P. PLAZAS,16.50,0,0,95,19
+04008,Tornillos de fijación 4x25,MAT. INYECCION,11.00,0,0,115,21
+01004,Adhesivo de fijación,P.T. PISOS ANTIGOLPES,20.00,0,0,75,10
+01001,AEROSILLA,P.T. JUEGOS INFANTILES,14.00,0,0,85,12
+01005,ALFOMBRA ESTRELLAS C/ILUMI.LED,P.T. SALAS MULTISENSORIALES,28.50,0,0,65,8
+03001,ANGULO/PLANCHUELA,MP. CAÑOS Y PERFILERIA,8.20,0,0,125,30
+04008,ANILLA,MAT. INYECCION,5.75,0,0,145,27
+02004,Soportes para paneles solares,MAT. ACERO INOXIDABLE,32.00,0,0,75,14
+02005,Arandelas para ensamblaje,MAT. ACERO INOXIDABLE,7.50,0,0,150,23
+02006,Suplementos para barras,MAT. ACERO INOXIDABLE,11.00,0,0,100,16
+02007,Barras de soporte,MAT. ACERO INOXIDABLE,18.00,0,0,80,20
+01006,Pisos de goma,P.T. TORNILLERIA,25.50,0,0,70,11
+01007,Paneles solares,P.T. TUERCAS,75.00,0,0,90,9
+01008,Calesita integradora,P.T. TORNILLERIA,120.00,0,0,85,13
+01009,Calesita mac con patas,P.T. TUERCAS,150.00,0,0,100,18
+01010,Mangrullo con bajada,P.T. TORNILLERIA,180.00,0,0,95,22
+01011,Dispenser sanitizante,P.T. TUERCAS,40.00,0,0,110,25
+01012,Centerplay country club,P.T. TORNILLERIA,300.00,0,0,75,16
+01013,Tubo de gateo,P.T. TUERCAS,20.00,0,0,85,19
+02008,Soportes para paneles solares 4x20,MAT. ACERO INOXIDABLE,35.00,0,0,70,14
+02009,Arandelas para ensamblaje 5x25,MAT. ACERO INOXIDABLE,8.50,0,0,145,27
+02010,Suplementos para barras 6x30,MAT. ACERO INOXIDABLE,12.00,0,0,95,18
+02011,Barras de soporte 5x25,MAT. ACERO INOXIDABLE,20.50,0,0,75,21
+01014,Pisos de goma 5x25,P.T. TORNILLERIA,28.00,0,0,65,11
+01015,Paneles solares 4x20,P.T. TUERCAS,80.00,0,0,90,9
+01016,Calesita integradora 6x30,P.T. TORNILLERIA,125.00,0,0,85,13
+01017,Calesita mac con patas 5x25,P.T. TUERCAS,160.00,0,0,100,18
+01018,Mangrullo con bajada 4x20,P.T. TORNILLERIA,190.00,0,0,95,22
+01019,Dispenser sanitizante 5x25,P.T. TUERCAS,45.00,0,0,110,25
+01020,Centerplay country club 6x30,P.T. TORNILLERIA,320.00,0,0,75,16
+01021,Tubo de gateo 5x25,P.T. TUERCAS,22.00,0,0,85,19
+02012,Soportes para paneles solares 5x25,MAT. ACERO INOXIDABLE,38.00,0,0,70,14
+02013,Arandelas para ensamblaje 6x30,MAT. ACERO INOXIDABLE,9.50,0,0,145,27
+02014,Suplementos para barras 4x20,MAT. ACERO INOXIDABLE,13.00,0,0,95,18
+02015,Barras de soporte 6x30,MAT. ACERO INOXIDABLE,22.50,0,0,75,21
+01022,Pisos de goma 6x30,P.T. TORNILLERIA,31.50,0,0,65,11
+01023,Paneles solares 5x25,P.T. TUERCAS,85.00,0,0,90,9
+01024,Calesita integradora 4x20,P.T. TORNILLERIA,130.00,0,0,85,13
+01025,Calesita mac con patas 6x30,P.T. TUERCAS,170.00,0,0,100,18
+01026,Mangrullo con bajada 5x25,P.T. TORNILLERIA,200.00,0,0,95,22
+01027,Dispenser sanitizante 6x30,P.T. TUERCAS,50.00,0,0,110,25
+01028,Centerplay country club 4x20,P.T. TORNILLERIA,340.00,0,0,75,16
+01029,Tubo de gateo 6x30,P.T. TUERCAS,24.00,0,0,85,19
+02016,Soportes para paneles solares 6x30,MAT. ACERO INOXIDABLE,40.00,0,0,70,14
+02017,Arandelas para ensamblaje 4x20,MAT. ACERO INOXIDABLE,10.00,0,0,145,27
+02018,Suplementos para barras 5x25,MAT. ACERO INOXIDABLE,14.00,0,0,95,18
+02019,Barras de soporte 4x20,MAT. ACERO INOXIDABLE,24.00,0,0,75,21
+01030,Pisos de goma 4x20,P.T. TORNILLERIA,35.00,0,0,65,11
+01031,Paneles solares 6x30,P.T. TUERCAS,90.00,0,0,90,9
+01032,Calesita integradora 5x25,P.T. TORNILLERIA,135.00,0,0,85,13
+01033,Calesita mac con patas 4x20,P.T. TUERCAS,180.00,0,0,100,18
+01034,Mangrullo con bajada 6x30,P.T. TORNILLERIA,210.00,0,0,95,22
+01035,Dispenser sanitizante 4x20,P.T. TUERCAS,55.00,0,0,110,25
+01036,Centerplay country club 5x25,P.T. TORNILLERIA,360.00,0,0,75,16
+01037,Tubo de gateo 4x20,P.T. TUERCAS,26.00,0,0,85,19
+02020,Soportes para paneles solares 4x20,MAT. ACERO INOXIDABLE,42.00,0,0,70,14
+02021,Arandelas para ensamblaje 5x25,MAT. ACERO INOXIDABLE,11.50,0,0,145,27
+02022,Suplementos para barras 6x30,MAT. ACERO INOXIDABLE,15.00,0,0,95,18
+02023,Barras de soporte 5x25,MAT. ACERO INOXIDABLE,26.00,0,0,75,21
+01038,Pisos de goma 5x25,P.T. TORNILLERIA,38.50,0,0,65,11
+01039,Paneles solares 4x20,P.T. TUERCAS,95.00,0,0,90,9
+01040,Calesita integradora 6x30,P.T. TORNILLERIA,140.00,0,0,85,13
+01041,Calesita mac con patas 5x25,P.T. TUERCAS,190.00,0,0,100,18
+01042,Mangrullo con bajada 4x20,P.T. TORNILLERIA,220.00,0,0,95,22
+01043,Dispenser sanitizante 6x30,P.T. TUERCAS,60.00,0,0,110,25
+01044,Centerplay country club 4x20,P.T. TORNILLERIA,380.00,0,0,75,16
+01045,Tubo de gateo 5x25,P.T. TUERCAS,28.00,0,0,85,19

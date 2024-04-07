@@ -1,0 +1,71 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.padre{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.lectorQr{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 50vh;
+    width: 50vw;
+}
+.scanButton{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+    padding: 20px;
+    border-radius: 10px;
+
+}
+.p{
+    text-align: center;
+    font-size: 26px;
+    font-weight: bold;
+    font-family: Helvetica, sans-serif;
+    color: #d50000;
+    padding: 3.6px;
+
+}
+.posicionCancelScan{
+    display: flex;
+    justify-content: end;
+    width: 100vw;
+}
+
+.cancelarScan{
+    width: fit-content;
+    background-color: red;
+    color: white;
+    font-size: small;
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+}
+.resultadoBox{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    width: 80%;
+    padding: 15px;
+    border-radius: 15px;
+    font-family: "Helvetica", sans-serif;
+}
+.resultado{
+    width: 100%;
+    height: fit-content;
+}
+.detalleResultado{
+    display: flex;
+    justify-content: end;
+    width: 100%;
+}

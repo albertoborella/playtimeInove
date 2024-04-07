@@ -1,0 +1,31 @@
+version: "3.8"
+# Este es un archivo de docker-compose.yml para configurar el uso de contenedores de software.
+
+services:
+
+  backend:
+    # build es el lugar desde donde toma los archivos para generar la imagen.
+    # Toma como contexto de trabajo el directorio donde está el docker-compose.yml (.)
+    # y busca el archivo "dockerfile".
+    build:
+      context: .
+      dockerfile: Dockerfile
+    # Imágen a utilizar:
+    image: python:3.9.5
+    # Nombre del container:
+    container_name: backend
+    # Comportamiento ante fallos y al iniciar el sistema:
+    restart: always
+    # Carpetas enlazadas:
+    volumes:
+      # Source code directory:
+      - type: bind
+        source: .
+        target: /opt/back_end
+    # Puertos enlazados:
+    ports:
+        - "8000:8000"
+    # Control de consola:
+    stdin_open: true
+    tty: true
+    command: python manage.py runserver 0.0.0.0:8000
